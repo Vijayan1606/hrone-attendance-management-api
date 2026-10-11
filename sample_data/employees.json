@@ -1,0 +1,182 @@
+[
+  {
+    "emp_code": "EMP0007",
+    "name": "Ananya Menon",
+    "email": "ananya.menon@example.com",
+    "department": "Engineering",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-04-06",
+    "created_at": {
+      "$date": "2026-04-06T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0008",
+    "name": "Rahul Verma",
+    "email": "rahul.verma@example.com",
+    "department": "Engineering",
+    "shift_start": "10:00",
+    "shift_end": "19:00",
+    "joined_on": "2026-04-13",
+    "created_at": {
+      "$date": "2026-04-13T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0009",
+    "name": "Divya Krishnan",
+    "email": "divya.krishnan@example.com",
+    "department": "Product",
+    "shift_start": "09:00",
+    "shift_end": "18:00",
+    "joined_on": "2026-05-04",
+    "created_at": {
+      "$date": "2026-05-04T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0010",
+    "name": "Arjun Reddy",
+    "email": "arjun.reddy@example.com",
+    "department": "Product",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-05-11",
+    "created_at": {
+      "$date": "2026-05-11T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0011",
+    "name": "Sana Khan",
+    "email": "sana.khan@example.com",
+    "department": "HR",
+    "shift_start": "09:00",
+    "shift_end": "18:00",
+    "joined_on": "2026-01-19",
+    "created_at": {
+      "$date": "2026-01-19T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0012",
+    "name": "Aditya Joshi",
+    "email": "aditya.joshi@example.com",
+    "department": "HR",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-02-16",
+    "created_at": {
+      "$date": "2026-02-16T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0013",
+    "name": "Pooja Desai",
+    "email": "pooja.desai@example.com",
+    "department": "Sales",
+    "shift_start": "10:00",
+    "shift_end": "19:00",
+    "joined_on": "2026-03-02",
+    "created_at": {
+      "$date": "2026-03-02T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0014",
+    "name": "Nikhil Menon",
+    "email": "nikhil.menon@example.com",
+    "department": "Sales",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-06-01",
+    "created_at": {
+      "$date": "2026-06-01T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0015",
+    "name": "Kavya Iyer",
+    "email": "kavya.iyer@example.com",
+    "department": "Support",
+    "shift_start": "22:00",
+    "shift_end": "06:00",
+    "joined_on": "2026-04-20",
+    "created_at": {
+      "$date": "2026-04-20T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0016",
+    "name": "Sameer Ali",
+    "email": "sameer.ali@example.com",
+    "department": "Support",
+    "shift_start": "14:00",
+    "shift_end": "23:00",
+    "joined_on": "2026-05-18",
+    "created_at": {
+      "$date": "2026-05-18T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0017",
+    "name": "Ishita Kapoor",
+    "email": "ishita.kapoor@example.com",
+    "department": "Finance",
+    "shift_start": "09:00",
+    "shift_end": "18:00",
+    "joined_on": "2026-01-12",
+    "created_at": {
+      "$date": "2026-01-12T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0018",
+    "name": "Varun Nair",
+    "email": "varun.nair@example.com",
+    "department": "Finance",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-07-06",
+    "created_at": {
+      "$date": "2026-07-06T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0019",
+    "name": "Sneha Patil",
+    "email": "sneha.patil@example.com",
+    "department": "Operations",
+    "shift_start": "08:00",
+    "shift_end": "17:00",
+    "joined_on": "2026-02-23",
+    "created_at": {
+      "$date": "2026-02-23T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0020",
+    "name": "Manish Gupta",
+    "email": "manish.gupta@example.com",
+    "department": "Operations",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-03-16",
+    "created_at": {
+      "$date": "2026-03-16T00:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0021",
+    "name": "Riya Chatterjee",
+    "email": "riya.chatterjee@example.com",
+    "department": "Engineering",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-08-03",
+    "created_at": {
+      "$date": "2026-08-03T00:00:00Z"
+    }
+  }
+]
